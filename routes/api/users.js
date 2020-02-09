@@ -83,7 +83,7 @@ router.post('/', [
         );
 
 
-        // res.send('User registred')
+      
           
         } catch(err) {
 
